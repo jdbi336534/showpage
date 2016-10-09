@@ -838,7 +838,7 @@ a {
             border: none; }
             .container > section section ul:last-child li.loadli span {
               display: inline-block;
-              background: url("/images/loading.gif") no-repeat 0 center;
+              background: url("../images/loading.gif") no-repeat 0 center;
               background-size: 30px;
               padding-left: 35px; }
     .container > section div.fixed {
